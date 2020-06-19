@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mental Health</string>
+    <string name="about_icon_description">About the app icon</string>
+    <string name="about_label">About</string>
+    <string name="awareness_label">Mental Health Awareness</string>
+    <string name="discussion_label">Discussion Panel</string>
+    <string name="helpful_label">Some helpful Links</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
